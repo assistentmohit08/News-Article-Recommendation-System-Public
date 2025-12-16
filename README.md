@@ -1,0 +1,3 @@
+This project is a Hybrid News Recommendation System designed to provide personalized financial news article recommendations by combining Content-Based Filtering and Collaborative Filtering techniques. The system leverages Natural Language Processing (NLP) and Machine Learning to analyze user behavior and article content, delivering relevant and meaningful news suggestions.
+
+The application is implemented as a full-stack web application, where the backend is built using Flask and Machine Learning models, and the frontend is developed using HTML, CSS, and Bootstrap to ensure a clean and user-friendly interface.
