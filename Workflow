@@ -1,0 +1,11 @@
+Data loading and preprocessing of financial news articles
+
+Feature extraction using TF-IDF on article content
+
+Construction of user-item interaction matrix
+
+Similarity computation for content-based and collaborative filtering
+
+Hybrid recommendation generation
+
+Display of recommendations through a Flask web application
