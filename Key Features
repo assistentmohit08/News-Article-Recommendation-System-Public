@@ -1,0 +1,29 @@
+Content-Based Recommendation
+
+Uses TF-IDF Vectorization on news article text to capture semantic meaning.
+
+Computes cosine similarity to recommend articles similar to the user-entered news title.
+
+Collaborative Filtering
+
+Analyzes user interaction data (click behavior).
+
+Builds a user-item interaction matrix and computes similarity using cosine distance.
+
+Recommends articles based on similar users’ preferences.
+
+Hybrid Recommendation Approach
+
+Combines content-based and collaborative results.
+
+Improves recommendation accuracy and handles sparsity in user data.
+
+Cold-Start Handling
+
+Safely handles new users by providing popular or content-based recommendations.
+
+Web Interface
+
+Simple and intuitive UI for entering User ID and News Title.
+
+Displays recommended articles with category, subcategory, summary, and direct links.
